@@ -28,6 +28,8 @@ These templates rely on a customized version of <code>\_config.yml</code>.  The 
 
 This makes it easy to reference the title, description and URL for your site in the feed templates using <code>{{ site.name }}</code>, <code>{{ site.description }}</code> and <code>{{ site.url }}</code>.  Even if you're not using these feed templates, you might find these variables useful when you're designing your layouts.
 
-If you misse the link at the top please also checkout the original incarnation of this project: 
+## Looking for the RSS version?
+
+If you missed the link at the top please also checkout the original incarnation of this project: 
 
 [github.com/snaptortoise/jekyll-rss-feeds](https://github.com/snaptortoise/jekyll-rss-feeds)
