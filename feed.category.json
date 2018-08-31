@@ -10,7 +10,7 @@
   "favicon": "{{ site.url}}/favicon.png",
   {% if site.author %}
   "author": {
-    "name": "{{ site.author | jsonify }}"
+    "name": {{ site.author | jsonify }}
   },
   {% endif %}
   "items": [
